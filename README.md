@@ -11,6 +11,21 @@
   <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Esther</h1>
 </div>
 
+---
+
+## 👩‍💻: About Me:
+
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+
+- :telescope: I participated in a BootCamp organized by Technology for Development and got certified in Software Development.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Sololearn and  read tech articles.
+
+- 🉑: Debugging is like a crime scene. 
+
+
 
 
 
