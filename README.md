@@ -13,13 +13,17 @@
 
 ## 👩‍💻: About Me:
 
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- I am a Software Engineer (front-end stack) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I participated in a BootCamp organized by Technology for Development and got certified in Software Development.
+- :telescope: I have persistently developed my coding skills by self-studying from June 2023 to date
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I participated in the Women Techsters Bootcamp Program organized by Technology for Development with a certification.
 
-- :zap: In my free time, I solve problems on Sololearn and  read tech articles.
+- :zap: I am actively self-learning on W3school, Freecodecamp, and Sololearn and currently perfecting my knowledge in React.
+
+- 🔖:  I am very open to internship positions.
+
+- 👯 I’m looking to collaborate on web projects.
 
 - 🉑: Debugging is like a crime scene. 
 
@@ -35,6 +39,9 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 
 
