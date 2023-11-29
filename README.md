@@ -13,7 +13,7 @@
 
 ## 👩‍💻: About Me:
 
-- I am a Software Engineer (front-end stack) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :computer: I am a Software Engineer (front-end stack) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
 - :telescope: I have persistently developed my coding skills by self-studying from June 2023 to date
 
@@ -21,11 +21,11 @@
 
 - :zap: I am actively self-learning on W3school, Freecodecamp, and Sololearn and currently perfecting my knowledge in React.
 
-- 🔖:  I am very open to internship positions.
+- :bacon:  I am very open to internship positions.
 
 - 👯 I’m looking to collaborate on web projects.
 
-- 🉑: Debugging is like a crime scene. 
+- 🉑 Debugging is like a crime scene. 
 
 ### :hammer_and_wrench: Languages and Tools :
 
